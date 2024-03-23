@@ -15,12 +15,12 @@ html {
 
 /*body*/
 body {
-    color: #161616;
+    color:  var(--text-color);
 }
 
 /*all anchor elements*/
 a {
-    color: #161616;
+    color: var(--text-color);
 }
 
 /*visually-hidden*/
@@ -30,10 +30,10 @@ a {
 
 /*card-category*/
 .card-category {
-    color: #d73953;
+    color: var(--color-primary);
 }
 
 /*section-tagline*/
 .section-tagline {
-    color: #d73953;
+    color: var(--color-primary);
 }

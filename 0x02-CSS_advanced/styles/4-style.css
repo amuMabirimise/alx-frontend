@@ -19,6 +19,7 @@ html {
 /*body*/
 body {
     color:  var(--text-color);
+    font-family: var(--font-family-base);
 }
 
 /*6 levels of headers*/

@@ -57,7 +57,8 @@ h6 {
 
 /*all anchor elements*/
 a {
-    color: none;
+    color: var(--text-color);
+    text-decoration: none;
 }
 
 /*visually-hidden*/

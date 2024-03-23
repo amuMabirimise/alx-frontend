@@ -1,4 +1,5 @@
-/*scroll smooth*/
+/* Custom properties in root elements to use css variables */
+
 html {
     scroll-behavior: smooth;
 }

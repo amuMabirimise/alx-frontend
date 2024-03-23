@@ -83,7 +83,7 @@ a:hover {
 
 /*Directly after the hover state, target the active state for the link*/
 a:active {
-    background-color: var(--color-light-gray)
+    background-color: var(--color-light-gray);
 }
 
 /*visually-hidden*/
